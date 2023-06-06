@@ -1,7 +1,7 @@
 ## Hey I'm **Rob** 👋
 
 ### I'm just starting out but am working hard to improve my skills and am always interested to hear from others about what they're up to
-Currently working to put together a portfolio site so check back for a link to that soon(ish)
+I'm working to put together a portfolio site so check back for a link to that soon(ish)
 
 <details>
   <summary> Languages I currently work most comfortably with </summary>
@@ -19,6 +19,7 @@ Currently working to put together a portfolio site so check back for a link to t
 <details>
   
   <summary> Current CodeWars Progress </summary>
+https://www.codewars.com/users/r0bt0t/badges/large
 
 ![Codewars](https://github.r2v.ch/codewars?user=r0bt0t)
   
