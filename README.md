@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey I'm **bold**Rob 👋
 
-<!--
-**r0bt0t/r0bt0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm just starting out but am working hard to improve my skills and am always interested to hear from others about what they're up to
+Currently working to put together a portfolio site so check back for a link to that soon *italics*(ish)
 
-Here are some ideas to get you started:
+| Rank |   Languages   |
+|-----:|---------------|
+|     1|    Python     |
+|     2|     HTML      |
+|     3|     CSS       |
+|     4|     SQL       |
+|     5|  JavaScript   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Codewars](https://github.r2v.ch/codewars?user=r0bt0t)
