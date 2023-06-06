@@ -1,7 +1,7 @@
-## Hey I'm **bold**Rob 👋
+## Hey I'm **Rob** 👋
 
 ### I'm just starting out but am working hard to improve my skills and am always interested to hear from others about what they're up to
-Currently working to put together a portfolio site so check back for a link to that soon *italics*(ish)
+Currently working to put together a portfolio site so check back for a link to that soon*(ish)*
 
 | Rank |   Languages   |
 |-----:|---------------|
