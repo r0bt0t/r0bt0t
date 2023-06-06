@@ -19,7 +19,7 @@ I'm working to put together a portfolio site so check back for a link to that so
 <details>
   
   <summary> Current CodeWars Progress </summary>
-https://www.codewars.com/users/r0bt0t/badges/large
+<img src="https://www.codewars.com/users/r0bt0t/badges/large">
 
 ![Codewars](https://github.r2v.ch/codewars?user=r0bt0t)
   
