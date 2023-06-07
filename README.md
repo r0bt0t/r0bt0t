@@ -16,11 +16,8 @@ I'm working to put together a portfolio site so check back for a link to that so
   
 </details>
 
-<details>
   
-  <summary> Current CodeWars Progress </summary>
+<summary> Current CodeWars Progress </summary>
 <img src="https://www.codewars.com/users/r0bt0t/badges/large">
 
 ![Codewars](https://github.r2v.ch/codewars?user=r0bt0t)
-  
-</details>
