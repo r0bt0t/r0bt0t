@@ -4,6 +4,8 @@
 
 Right now I'm working to put together a portfolio site so check back for a link to that soon _(ish)_ :nerd_face:
 
+In the meantime I'm interested in collaborations and all opportunities to learn so if you know of anything I should check out just get in touch
+
 <summary> Languages used in my public repos right now </summary>
 
 <br>
