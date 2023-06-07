@@ -1,7 +1,7 @@
 ## Hey I'm **Rob** :vulcan_salute:
 
 ### I'm just starting out but am working hard to improve my skills and am always interested to hear from others about what they're up to
-I'm working to put together a portfolio site so check back for a link to that soon(ish)
+I'm working to put together a portfolio site so check back for a link to that soon_(ish)_
 
 <details>
   <summary> Languages I currently work most comfortably with </summary>
