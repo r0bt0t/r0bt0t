@@ -14,16 +14,22 @@ Right now I'm working to put together a portfolio site so check back for a link 
 
 <summary> And the trophies I've earned so far </summary>
 
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=r0bt0t&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
 <summary> How much do i use Github.. </summary>
 
+<br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=r0bt0t)](https://git.io/streak-stats)
 
  
 <summary> Current CodeWars Progress </summary>
+
+<br>
   
 <img src="https://www.codewars.com/users/r0bt0t/badges/large">
 
