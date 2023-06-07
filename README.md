@@ -20,7 +20,7 @@ Right now I'm working to put together a portfolio site so check back for a link 
 
 <br>
 
-<summary> How much do i use Github.. </summary>
+<summary> How much do I use Github.. </summary>
 
 <br>
 
