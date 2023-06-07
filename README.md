@@ -4,20 +4,21 @@
 
 Right now I'm working to put together a portfolio site so check back for a link to that soon _(ish)_ :nerd_face:
 
-<summary> Languages I currently work most comfortably with </summary>
+<summary> Languages used in my public repos right now </summary>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0bt0t&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|    Python     |
-|     2|     HTML      |
-|     3|     CSS       |
-|     4|     SQL       |
-|     5|  JavaScript   |
+<br>
 
+<summary> And the trophies I've earned so far </summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=r0bt0t&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+<summary> How much do i use Github.. </summary>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=r0bt0t)](https://git.io/streak-stats)
 
