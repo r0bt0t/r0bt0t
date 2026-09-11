@@ -82,33 +82,11 @@ I'm also building a portfolio website to bring together my lab work, technical n
 
 I'm always interested in connecting with people working in:
 
-Networking | Cisco | Broadband | Wi-Fi | Infrastructure | Network Operations | Connectivity
+Networking | Cisco | Broadband | Wi-Fi | Infrastructure | Network Operations | Connectivity | Security | Anyone with a passion for what they do
 
 If you're working on something interesting, have feedback on one of my labs, or know of a technology or project worth exploring, feel free to get in touch.
 
-📊 GitHub
 
-<details> <summary>Languages used in my public repositories</summary>
-
-<br>
-
-
-
-
-</details>
-
-<br>
-
-<details> <summary>GitHub trophies</summary>
-
-<br>
-
-
-
-
-</details>
-
-<br>
 
 <details> <summary>GitHub activity</summary>
 
